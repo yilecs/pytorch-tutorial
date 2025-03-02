@@ -1,4 +1,5 @@
 /.idea
-*/logs/
+/logs/
+*/logs/**
 /data
 /logs_*
